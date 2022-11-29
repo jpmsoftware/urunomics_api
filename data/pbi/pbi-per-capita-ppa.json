@@ -1,0 +1,133 @@
+{
+    "name": "PBI Per Cápita (PPA)",
+    "description": "Producto bruto interno (PIB) per cápita se basa en la paridad de poderes adquisitivos (PPA). El PIB se convierte a dólares internacionales utilizando ratios de paridad de poderes adquisitivos. Un dólar internacional tiene el mismo poder adquisitivo sobre el PIB cómo el dólar estadounidense lo tiene en Estados Unidos",
+    "type": "PBI",
+    "unit": "Millones de dólares",
+    "dataset":
+    [
+        {
+            "date": "1990",
+            "value": "6385.96155741081"
+        },
+        {
+            "date": "1991",
+            "value": "6787.40009006716"
+        },
+        {
+            "date": "1992",
+            "value": "7438.5350370288"
+        },
+        {
+            "date": "1993",
+            "value": "7759.96535154179"
+        },
+        {
+            "date": "1994",
+            "value": "8440.57491204033"
+        },
+        {
+            "date": "1995",
+            "value": "8431.9031628364"
+        },
+        {
+            "date": "1996",
+            "value": "9000.72104198845"
+        },
+        {
+            "date": "1997",
+            "value": "9875.51895197393"
+        },
+        {
+            "date": "1998",
+            "value": "10371.685652876"
+        },
+        {
+            "date": "1999",
+            "value": "10264.5276055778"
+        },
+        {
+            "date": "2000",
+            "value": "10255.1008821721"
+        },
+        {
+            "date": "2001",
+            "value": "10059.7877241318"
+        },
+        {
+            "date": "2002",
+            "value": "9427.15285991748"
+        },
+        {
+            "date": "2003",
+            "value": "9686.49510153065"
+        },
+        {
+            "date": "2004",
+            "value": "10451.8934493213"
+        },
+        {
+            "date": "2005",
+            "value": "11580.3856760681"
+        },
+        {
+            "date": "2006",
+            "value": "12406.3658786305"
+        },
+        {
+            "date": "2007",
+            "value": "13547.1312743656"
+        },
+        {
+            "date": "2008",
+            "value": "14764.1876516712"
+        },
+        {
+            "date": "2009",
+            "value": "15464.2622035389"
+        },
+        {
+            "date": "2010",
+            "value": "16817.0790492985"
+        },
+        {
+            "date": "2011",
+            "value": "18002.8938254166"
+        },
+        {
+            "date": "2012",
+            "value": "18192.3297038387"
+        },
+        {
+            "date": "2013",
+            "value": "19130.0613970595"
+        },
+        {
+            "date": "2014",
+            "value": "20093.6240651453"
+        },
+        {
+            "date": "2015",
+            "value": "20217.5604365641"
+        },
+        {
+            "date": "2016",
+            "value": "22454.3948288087"
+        },
+        {
+            "date": "2017",
+            "value": "23009.8742286911"
+        },
+        {
+            "date": "2018",
+            "value": "23588.1513898133"
+        },
+        {
+            "date": "2019",
+            "value": "24006.7869388827"
+        },
+        {
+            "date": "2020",
+            "value": "22793.6879803833"
+        }
+    ]
+}

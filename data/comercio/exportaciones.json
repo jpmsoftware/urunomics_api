@@ -1,0 +1,136 @@
+{
+    "name": "Exportaciones",
+    "description": "Las exportaciones son el conjunto de bienes y servicios vendidos por un país en territorio extranjero para su utilización. Junto con las importaciones, son una herramienta imprescindible de comercio nacional​",
+    "type": "Comercio",
+    "unit": "Miles de millones de dólares",
+    "dataset": [
+        {
+            "date": "1990",
+            "value": "1692"
+        },
+        {
+            "date": "1991",
+            "value": "1604"
+        },
+        {
+            "date": "1992",
+            "value": "1702"
+        },
+        {
+            "date": "1993",
+            "value": "1645"
+        },
+        {
+            "date": "1994",
+            "value": "1913"
+        },
+        {
+            "date": "1995",
+            "value": "2105"
+        },
+        {
+            "date": "1996",
+            "value": "2397"
+        },
+        {
+            "date": "1997",
+            "value": "2725"
+        },
+        {
+            "date": "1998",
+            "value": "2768"
+        },
+        {
+            "date": "1999",
+            "value": "2241"
+        },
+        {
+            "date": "2000",
+            "value": "2299"
+        },
+        {
+            "date": "2001",
+            "value": "2057"
+        },
+        {
+            "date": "2002",
+            "value": "1861"
+        },
+        {
+            "date": "2003",
+            "value": "2205"
+        },
+        {
+            "date": "2004",
+            "value": "2932"
+        },
+        {
+            "date": "2005",
+            "value": "3421"
+        },
+        {
+            "date": "2006",
+            "value": "3989"
+        },
+        {
+            "date": "2007",
+            "value": "4517"
+        },
+        {
+            "date": "2008",
+            "value": "5948"
+        },
+        {
+            "date": "2009",
+            "value": "5404"
+        },
+        {
+            "date": "2010",
+            "value": "6724"
+        },
+        {
+            "date": "2011",
+            "value": "7911"
+        },
+        {
+            "date": "2012",
+            "value": "8709"
+        },
+        {
+            "date": "2013",
+            "value": "9066"
+        },
+        {
+            "date": "2014",
+            "value": "9132"
+        },
+        {
+            "date": "2015",
+            "value": "7678"
+        },
+        {
+            "date": "2016",
+            "value": "7042"
+        },
+        {
+            "date": "2017",
+            "value": "7888"
+        },
+        {
+            "date": "2018",
+            "value": "7500"
+        },
+        {
+            "date": "2019",
+            "value": "9146"
+        },
+        {
+            "date": "2020",
+            "value": "8076"
+        },
+        {
+            "date": "2021",
+            "value": "11549"
+        }
+    ]
+}

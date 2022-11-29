@@ -1,0 +1,132 @@
+[
+  {
+    "cat_id": 1,
+    "cat_name": "PBI",
+    "icon": "/icons/economy.svg",
+    "path": "/pbi",
+    "indicators": [
+      {
+        "id": "666666",
+        "name": "Producto interno bruto. Total país",
+        "description": "lorem ipsum",
+        "unit": "Pesos uruguayos",
+        "updated": "01/01/1111",
+        "path": "/pbi/pbi",
+        "urls": [],
+        "cat_name": "PBI"
+      },
+      {
+        "id": "df6fda1c",
+        "name": "Producto interno bruto (precios constantes). Total país",
+        "description": "lorem ipsum",
+        "unit": "Pesos uruguayos",
+        "updated": "01/01/1111",
+        "path": "/pbi/pbi_constant",
+        "urls": [],
+        "cat_name": "PBI"
+      }
+    ]
+  },
+  {
+    "cat_id": 2,
+    "cat_name": "Empleo",
+    "icon": "/icons/employment.svg",
+    "path": "/empleo",
+    "indicators": [
+      {
+        "id": "df6fda1c",
+        "name": "Tasa de Empleo. Total país",
+        "description": "lorem ipsum",
+        "unit": "Pesos uruguayos",
+        "updated": "01/01/1111",
+        "path": "/empleo/empleo",
+        "urls": [],
+        "cat_name": "Empleo"
+      },
+      {
+        "id": "df6fda1c",
+        "name": "Tasa de desempleo. Total país",
+        "description": "lorem ipsum",
+        "unit": "Pesos uruguayos",
+        "updated": "01/01/1111",
+        "path": "/empleo/desempleo",
+        "urls": [],
+        "cat_name": "Empleo"
+      },
+      {
+        "id": "df6fda1c",
+        "name": "Tasa de actividad. Total país",
+        "description": "lorem ipsum",
+        "unit": "Pesos uruguayos",
+        "updated": "01/01/1111",
+        "path": "/empleo/actividad",
+        "urls": [],
+        "cat_name": "Empleo"
+      }
+    ]
+  },
+  {
+    "cat_id": 3,
+    "cat_name": "Precios",
+    "icon": "/icons/prices.svg",
+    "path": "/precios",
+    "indicators": [
+      {
+        "id": "df6fda1c",
+        "name": "Tasa de inflación. Total país",
+        "description": "lorem ipsum",
+        "unit": "Pesos uruguayos",
+        "updated": "01/01/1111",
+        "path": "/precios/inflacion",
+        "urls": [],
+        "cat_name": "Precios"
+      },
+      {
+        "id": "df6fda1c",
+        "name": "Índice de precios al consumo. Total país",
+        "description": "lorem ipsum",
+        "unit": "Pesos uruguayos",
+        "updated": "01/01/1111",
+        "path": "/precios/ipc",
+        "urls": [],
+        "cat_name": "Precios"
+      }
+    ]
+  },
+  {
+    "cat_id": 4,
+    "cat_name": "Comercio",
+    "icon": "/icons/trade.svg",
+    "path": "/comercio",
+    "indicators": [
+      {
+        "id": "df6fda1c",
+        "name": "Balanza comercial",
+        "description": "lorem ipsum",
+        "unit": "Pesos uruguayos",
+        "updated": "01/01/1111",
+        "path": "/comercio/balanza_comercial",
+        "urls": [],
+        "cat_name": "Comercio"
+      }
+    ]
+  },
+  {
+    "cat_id": 5,
+    "cat_name": "Gobierno",
+    "icon": "/icons/government.svg",
+    "path": "/gobierno",
+    "indicators": [
+      {
+        "id": "df6fda1c",
+        "name": "Reservas internacionales",
+        "description": "lorem ipsum",
+        "unit": "Pesos uruguayos",
+        "updated": "01/01/1111",
+        "path": "/gobierno/reservas",
+        "urls": [],
+        "cat_name": "Gobierno"
+      }
+    ]
+  }
+]

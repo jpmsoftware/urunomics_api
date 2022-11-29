@@ -1,0 +1,252 @@
+{
+    "name": "PBI per cápita",
+    "description": "El PBI per cápita es un indicador económico que mide la relación entre el nivel de ingresos de un país y cada uno de sus pobladores",
+    "type": "PBI",
+    "unit": "(USD)",
+    "dataset": [
+        {
+            "date": "1960",
+            "value": 489.3
+        },
+        {
+            "date": "1961",
+            "value": 601.7
+        },
+        {
+            "date": "1962",
+            "value": 656.7
+        },
+        {
+            "date": "1963",
+            "value": 584.2
+        },
+        {
+            "date": "1964",
+            "value": 741.2
+        },
+        {
+            "date": "1965",
+            "value": 701.7
+        },
+        {
+            "date": "1966",
+            "value": 664.4
+        },
+        {
+            "date": "1967",
+            "value": 581
+        },
+        {
+            "date": "1968",
+            "value": 574.3
+        },
+        {
+            "date": "1969",
+            "value": 717.1
+        },
+        {
+            "date": "1970",
+            "value": 760.5
+        },
+        {
+            "date": "1971",
+            "value": 996
+        },
+        {
+            "date": "1972",
+            "value": 775
+        },
+        {
+            "date": "1973",
+            "value": 1404.7
+        },
+        {
+            "date": "1974",
+            "value": 1448
+        },
+        {
+            "date": "1975",
+            "value": 1250
+        },
+        {
+            "date": "1976",
+            "value": 1291
+        },
+        {
+            "date": "1977",
+            "value": 1440.2
+        },
+        {
+            "date": "1978",
+            "value": 1707
+        },
+        {
+            "date": "1979",
+            "value": 2480
+        },
+        {
+            "date": "1980",
+            "value": 3486
+        },
+        {
+            "date": "1981",
+            "value": 3765
+        },
+        {
+            "date": "1982",
+            "value": 3107.4
+        },
+        {
+            "date": "1983",
+            "value": 1716.1
+        },
+        {
+            "date": "1984",
+            "value": 1621
+        },
+        {
+            "date": "1985",
+            "value": 1571.3
+        },
+        {
+            "date": "1986",
+            "value": 1940.2
+        },
+        {
+            "date": "1987",
+            "value": 2416
+        },
+        {
+            "date": "1988",
+            "value": 2676.5
+        },
+        {
+            "date": "1989",
+            "value": 2732.2
+        },
+        {
+            "date": "1990",
+            "value": 2990.3
+        },
+        {
+            "date": "1991",
+            "value": 3578.2
+        },
+        {
+            "date": "1992",
+            "value": 4082.5
+        },
+        {
+            "date": "1993",
+            "value": 4721
+        },
+        {
+            "date": "1994",
+            "value": 5459
+        },
+        {
+            "date": "1995",
+            "value": 5985
+        },
+        {
+            "date": "1996",
+            "value": 6318
+        },
+        {
+            "date": "1997",
+            "value": 7370
+        },
+        {
+            "date": "1998",
+            "value": 7714
+        },
+        {
+            "date": "1999",
+            "value": 7250.2
+        },
+        {
+            "date": "2000",
+            "value": 6875
+        },
+        {
+            "date": "2001",
+            "value": 6284.4
+        },
+        {
+            "date": "2002",
+            "value": 4091
+        },
+        {
+            "date": "2003",
+            "value": 3624.1
+        },
+        {
+            "date": "2004",
+            "value": 4120.5
+        },
+        {
+            "date": "2005",
+            "value": 5227
+        },
+        {
+            "date": "2006",
+            "value": 5888
+        },
+        {
+            "date": "2007",
+            "value": 7026.5
+        },
+        {
+            "date": "2008",
+            "value": 9091
+        },
+        {
+            "date": "2009",
+            "value": 9452
+        },
+        {
+            "date": "2010",
+            "value": 11992
+        },
+        {
+            "date": "2011",
+            "value": 14237
+        },
+        {
+            "date": "2012",
+            "value": 15171.5
+        },
+        {
+            "date": "2013",
+            "value": 16974
+        },
+        {
+            "date": "2014",
+            "value": 16832
+        },
+        {
+            "date": "2015",
+            "value": 15614
+        },
+        {
+            "date": "2016",
+            "value": 15387
+        },
+        {
+            "date": "2017",
+            "value": 17322.1
+        },
+        {
+            "date": "2018",
+            "value": 17278
+        },
+        {
+            "date": "2019",
+            "value": 16190.1
+        },
+        {
+            "date": "2020",
+            "value": 15045
+        }
+    ]
+}
